@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="BigDog_Bark" ID="{23501ED6-6E4C-46D5-AFE2-D38C6B18C67F}">
+					<ChildrenList>
+						<Action Name="" ID="{D743E5D5-DB4F-4F15-91AD-75C6614077EB}" ShortID="116508431">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BigDog_Bark" ID="{6C3DA3E5-AC2E-4231-812A-6802DB3DD46D}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Junktyard_Ambience" ID="{0243B86B-A335-4C3F-ACD1-3E0D8773A02D}">
+					<ChildrenList>
+						<Action Name="" ID="{E0E3B6B2-2115-4D71-A1FF-3A05722AE717}" ShortID="1012359535">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="JunkYard_Ambience" ID="{1E07DA86-A99F-404A-A5D3-D3803A38DF49}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PlayerDog_Bark" ID="{2A23A297-91F8-4120-82AB-B01EEC0B77F8}">
+					<ChildrenList>
+						<Action Name="" ID="{FBEC4086-1E77-4CA2-8CAF-7E4B68E46C37}" ShortID="289993590">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SmallDog_Bark" ID="{E49674CE-3415-4496-8865-2D738B43AE8E}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Room_Ambience" ID="{003D1326-6A33-4810-A754-CD2E1FB5F3F9}">
+					<ChildrenList>
+						<Action Name="" ID="{47484126-E3FD-46F9-B826-77C4FBFBCB23}" ShortID="951025267">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Room_Ambience" ID="{D971D387-E684-4AC4-8D36-CFEE1C5854F5}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Roomba" ID="{DD41B2AB-6872-487A-AD4B-18A3F846BB53}">
+					<ChildrenList>
+						<Action Name="" ID="{B3F758D0-0415-4603-9B0A-75D173DFE7A5}" ShortID="197373847">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Roomba_Move" ID="{38FDD317-9ABB-457C-A5B2-29918DEF0C01}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Treat" ID="{092BC6EC-8D4F-49F3-97F2-18FCDB1614FC}">
+					<ChildrenList>
+						<Action Name="" ID="{DF3A0538-7B8F-4ABC-9F0E-71150D908926}" ShortID="704091443">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Treat_Throw" ID="{DA3AB863-5E7B-4495-A55F-89E9A8D7FFA3}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Cat_Meow" ID="{B5B0BF93-6383-4FE1-AAA6-3BEC9C966CE6}">
+					<ChildrenList>
+						<Action Name="" ID="{A7B2A11C-7F94-4805-8C56-C88623DD333E}" ShortID="355250012">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cat_Meow" ID="{3A130356-0C66-4CCB-814E-328F5472F2DF}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Cat_Hiss" ID="{52062C89-CF45-42E2-8DB6-811E0D35594D}">
+					<ChildrenList>
+						<Action Name="" ID="{F32FECFE-FFBA-4AED-9AB9-7ADE3662B9D2}" ShortID="858053681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cat_Hissing_1" ID="{868D1B69-6805-409A-BD7D-A832E40B0387}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Dog_Tailwag" ID="{3C12C756-E243-42C4-9859-91C51EC87321}">
+					<ChildrenList>
+						<Action Name="" ID="{E5322B69-8080-49CB-AEC5-D6417F22D125}" ShortID="763015793">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dog_Tailwag" ID="{82CA771C-ADC2-4F4A-A731-8CD9BC57FAAC}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Water_Spray" ID="{3990311E-24EC-4E22-B991-E53406D09EDF}">
+					<ChildrenList>
+						<Action Name="" ID="{BC1B9A2B-3170-4A1E-A03F-AB8FFC84D766}" ShortID="735823154">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SprayGun2" ID="{82D190F0-8CDC-4A9E-AE49-ABFBCB917CC0}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SoccerBall" ID="{10D5DA4E-20FC-4311-8A31-34763D189297}"/>
+				<Event Name="Item_Pickup" ID="{C20509F2-B3CC-4C28-948C-B068759E6370}">
+					<ChildrenList>
+						<Action Name="" ID="{7277715A-6ACE-4EB7-83ED-6C310D2B6795}" ShortID="862888284">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Item_PickUp" ID="{8AB54418-24E7-49E3-B507-3E70AF00C040}" WorkUnitID="{156D64E9-8A98-4767-AB0B-BB11F7B60EC4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music" ID="{0820C2DA-019A-495A-82A4-988B8A6DAFE3}">
+					<ChildrenList>
+						<Action Name="" ID="{05378AF7-0264-4E70-8CA3-3F77B3A88DB7}" ShortID="476476072">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="LD45 MUSIC" ID="{4880504D-BC77-4BC0-8ED4-A066799289B3}" WorkUnitID="{A9B4FD7A-984E-4BCC-BF85-1470EC9C5986}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{565CD47F-522E-4D21-83A3-B1CFA2C3AB6B}" ShortID="690173813">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="LD45 MUSIC" ID="{4880504D-BC77-4BC0-8ED4-A066799289B3}" WorkUnitID="{A9B4FD7A-984E-4BCC-BF85-1470EC9C5986}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

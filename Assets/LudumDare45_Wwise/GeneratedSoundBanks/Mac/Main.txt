@@ -1,0 +1,82 @@
+Event	ID	Name			Wwise Object Path	Notes
+	566396871	Item_Pickup			\Default Work Unit\Item_Pickup	
+	1112472142	BigDog_Bark			\Default Work Unit\BigDog_Bark	
+	1347479017	Cat_Hiss			\Default Work Unit\Cat_Hiss	
+	1723787087	Roomba			\Default Work Unit\Roomba	
+	1936541503	Room_Ambience			\Default Work Unit\Room_Ambience	
+	1968116890	Cat_Meow			\Default Work Unit\Cat_Meow	
+	2057654685	PlayerDog_Bark			\Default Work Unit\PlayerDog_Bark	
+	2218763125	Dog_Tailwag			\Default Work Unit\Dog_Tailwag	
+	2355367520	Junktyard_Ambience			\Default Work Unit\Junktyard_Ambience	
+	3254411891	SoccerBall			\Default Work Unit\SoccerBall	
+	3590456812	Water_Spray			\Default Work Unit\Water_Spray	
+	3949529627	Treat			\Default Work Unit\Treat	
+	3991942870	Music			\Default Work Unit\Music	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+Switch	ID	Name	Switch Group			Notes
+	2147352708	FinalBoss	Music			
+	3806193355	CatLady	Music			
+	3810375574	Greyhound	Music			
+	4142189312	Street	Music			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2260585538	GameSate			\Default Work Unit\GameSate	
+
+State	ID	Name	State Group			Notes
+	0	None	GameSate			
+	89505537	GamePlay	GameSate			
+	2607556080	Menu	GameSate			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2299759966	Roomba_Accel			\Default Work Unit\Roomba_Accel	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	52608069	Dog_Bark_7	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_7_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_7		9598
+	80981180	Greyhound_Boss_INTRO_8_Bars_160_BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Greyhound Boss\Greyhound_Boss_INTRO_8_Bars_160_BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Greyhound\Greyhound_Boss_INTRO_8_Bars_160_BPM\Greyhound_Boss_INTRO_8_Bars_160_BPM		277487
+	119396469	BigDog_Bark_5	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_5_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_5		28423
+	120945632	BigDog_Bark_7	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_7_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_7		30114
+	158010889	Cat_Meow_1	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Cat_Meow_1_FC4081A6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cat_Meow\Cat_Meow_1		29406
+	173133512	Casual_Exploration_32_Bars_100_BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Casual Exploration\Casual_Exploration_48_Bars_100_BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Street Music\Casual_Exploration_32_Bars_100_BPM\Casual_Exploration_32_Bars_100_BPM		1436562
+	189465755	Roomba_Move	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Roomba_Move_E06E8984.wem		\Actor-Mixer Hierarchy\Default Work Unit\Roomba_Move		31211
+	191536443	Final_Boss_INTRO_8_Bars_170BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Final Boss\Final_Boss_INTRO_8_Bars_170BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Dog Father\Final_Boss_INTRO_8_Bars_170BPM\Final_Boss_INTRO_8_Bars_170BPM		265694
+	228904637	SFX_SprayGun2_1	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_1_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_1		8151
+	258964341	Treat_Throw	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Treat_Throw_A7AA0CE4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Treat_Throw		6902
+	352071468	Dog Daze - Cattack! [LOOP]_171bpm_60bar	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Cattack!\Dog Daze - Cattack! [LOOP]_171bpm_60bar_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Cattack\Dog Daze - Cattack! [LOOP]_171bpm_60bar\Dog Daze - Cattack! [LOOP]_171bpm_60bar		1649716
+	375039660	Dog_Tailwag	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Tailwag_E3CD11CF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dog_Tailwag		10491
+	390292311	Final_Boss_MAIN_48_Bars_170BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Final Boss\Final_Boss_MAIN_48_Bars_170BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Dog Father\Final_Boss_MAIN_48_Bars_170BPM\Final_Boss_MAIN_48_Bars_170BPM		1583022
+	393764157	SFX_SprayGun2_5	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_5_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_5		8304
+	424821462	City Wind, Leaves, Distant Traffic  _Stereo (LR)	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\City Wind, Leaves, Distant Traffic  _Stereo (LR)_CF7F9B2B.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\City Wind, Leaves, Distant Traffic  _Stereo (LR)		2723237
+	463127310	Dog_Bark_6	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_6_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_6		10636
+	469992210	BigDog_Bark_6	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_6_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_6		28772
+	497012732	Dog_Bark_3	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_3_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_3		12603
+	604519845	BigDog_Bark_2	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_2_9267EA7F.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_2		6254
+	615072987	Cat_Meow_3	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Cat_Meow_1_C57CF544.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cat_Meow\Cat_Meow_3		25445
+	638280482	Greyhound_Boss_MAIN_2nd_32_Bars_160_BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Greyhound Boss\Greyhound_Boss_MAIN_2nd_32_Bars_160_BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Greyhound\Greyhound_Boss_MAIN_2nd_32_Bars_160_BPM\Greyhound_Boss_MAIN_2nd_32_Bars_160_BPM		1027988
+	640937498	SFX_SprayGun2_4	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_4_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_4		9030
+	642405637	BigDog_Bark_4	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_2_56D75952.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_4		8365
+	644922975	Traffic_city_day_close	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Traffic_city_day_close_466933E4.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\Traffic_city_day_close		4045220
+	660867108	Room_Ambience	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Roomtone,TACF,Auditorium,Light Hum_B85CC767.wem		\Actor-Mixer Hierarchy\Default Work Unit\Room_Ambience		496857
+	718176670	Cat_Meow_4	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Cat_Meow_1_23C26BD4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cat_Meow\Cat_Meow_4		22799
+	723363963	Item_PickUp	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Item_PickUp_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Item_PickUp		7492
+	734777411	SFX_SprayGun2_6	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_6_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_6		9678
+	758611887	CA_35_Construction Site_Street_Fadromas Loading Truck_3	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\CA_35_Construction Site_Street_Fadromas Loading Truck_3_2479E521.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\CA_35_Construction Site_Street_Fadromas Loading Truck_3		2351996
+	784391014	Dog_Bark_4	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_4_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_4		10952
+	825233811	Cat_Hissing_1	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Cat_Hissing_1_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cat_Hissing_1		15571
+	850115381	SFX_SprayGun2_3	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_3_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_3		8547
+	854986852	BigDog_Bark_1	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_1_28E84E65.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_1		7577
+	861376353	Cat_Meow_2	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Cat_Meow_1_EE88B63F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cat_Meow\Cat_Meow_2		23094
+	861576810	Dog_Bark_1	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_1_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_1		10610
+	867120203	Dog_Bark_2	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_2_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_2		12066
+	874834152	Dog_Bark_5	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Dog_Bark_5_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SmallDog_Bark\Dog_Bark_5		10613
+	885128090	BigDog_Bark_3	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\BigDog_Bark_1_4E71E595.wem		\Actor-Mixer Hierarchy\Default Work Unit\BigDog_Bark\BigDog_Bark_3		12913
+	910188283	SFX_SprayGun2_2	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_2_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_2		8638
+	913886551	Bluezone_BC0247_008_ambience_wind	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Bluezone_BC0247_008_ambience_wind_9BB68E96.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\Bluezone_BC0247_008_ambience_wind		587081
+	927357170	America_BBC_ECD24i	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\America.BBC.ECD24i_28B047B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\America_BBC_ECD24i		643381
+	946379836	Greyhound_Boss_MAIN_1st_48_Bars_160_BPM	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Greyhound Boss\Greyhound_Boss_MAIN_1st_48_Bars_160_BPM_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Greyhound\Greyhound_Boss_MAIN_1st_48_Bars_160_BPM\Greyhound_Boss_MAIN_1st_48_Bars_160_BPM		1412440
+	983439687	Dog Daze - Cattack! [INTRO]_171bpm_28bar	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Music\Cattack!\Dog Daze - Cattack! [INTRO]_171bpm_28bar_E06E8984.wem		\Interactive Music Hierarchy\Default Work Unit\Music\LD45 MUSIC\Cattack\Dog Daze - Cattack! [INTRO]_171bpm_28bar\Dog Daze - Cattack! [INTRO]_171bpm_28bar		703598
+	1040663324	SFX_SprayGun2_7	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\SFX_SprayGun2_7_C6AC61FA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayGun2\SFX_SprayGun2_7		9718
+	1061477611	Industrial_Ambient_Spaces_04	Y:\Desktop\LudumDare45\DogDaze\Assets\LudumDare45_Wwise\.cache\Mac\SFX\Industrial_Ambient_Spaces_04_5475C5DB.wem		\Actor-Mixer Hierarchy\Default Work Unit\JunkYard_Ambience\Industrial_Ambient_Spaces_04		383178
+

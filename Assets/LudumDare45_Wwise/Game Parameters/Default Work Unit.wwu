@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E21181EA-7B90-4F39-AA51-AEC7D5AE7AFA}" SchemaVersion="94">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{E21181EA-7B90-4F39-AA51-AEC7D5AE7AFA}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Roomba_Accel" ID="{5290FDD6-1C72-4267-BB65-48FE5B5403C4}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

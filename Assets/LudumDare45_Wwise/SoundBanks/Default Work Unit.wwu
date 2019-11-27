@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{86D7ABFB-A5AC-4B87-9D18-6FC2859F2145}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{86D7ABFB-A5AC-4B87-9D18-6FC2859F2145}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{D71CB15B-F929-4516-ABED-F201DB6D893A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="PlayerDog_Bark" ID="{2A23A297-91F8-4120-82AB-B01EEC0B77F8}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Dog_Tailwag" ID="{3C12C756-E243-42C4-9859-91C51EC87321}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Cat_Hiss" ID="{52062C89-CF45-42E2-8DB6-811E0D35594D}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SoccerBall" ID="{10D5DA4E-20FC-4311-8A31-34763D189297}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BigDog_Bark" ID="{23501ED6-6E4C-46D5-AFE2-D38C6B18C67F}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Room_Ambience" ID="{003D1326-6A33-4810-A754-CD2E1FB5F3F9}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Roomba" ID="{DD41B2AB-6872-487A-AD4B-18A3F846BB53}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music" ID="{0820C2DA-019A-495A-82A4-988B8A6DAFE3}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Treat" ID="{092BC6EC-8D4F-49F3-97F2-18FCDB1614FC}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Item_Pickup" ID="{C20509F2-B3CC-4C28-948C-B068759E6370}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Junktyard_Ambience" ID="{0243B86B-A335-4C3F-ACD1-3E0D8773A02D}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Water_Spray" ID="{3990311E-24EC-4E22-B991-E53406D09EDF}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Cat_Meow" ID="{B5B0BF93-6383-4FE1-AAA6-3BEC9C966CE6}" WorkUnitID="{7D983D6F-2CB1-4398-B177-D417AE55BDF1}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

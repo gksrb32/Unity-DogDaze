@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{870B77DE-264F-4C1B-8F3E-5251D354222C}" SchemaVersion="94">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{870B77DE-264F-4C1B-8F3E-5251D354222C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Weapon" ID="{7D11D4C0-66E2-4EAB-BAE9-E639FF37026E}">
+					<ChildrenList>
+						<Switch Name="WaterSpray" ID="{B9030BF7-2C19-46DF-B308-E6CBFA167412}"/>
+						<Switch Name="Tailwig" ID="{8EF6470A-02B1-433F-80EE-F84CABCAEC14}"/>
+						<Switch Name="SoccerBall" ID="{AA086A2F-B86A-4E33-A9D6-E5DF4A2F55D1}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Music" ID="{DB0121CE-5BF2-46E2-8CC8-27EB48B132ED}">
+					<ChildrenList>
+						<Switch Name="Greyhound" ID="{91D2BCD5-D774-444B-936B-4A469F385E30}"/>
+						<Switch Name="Street" ID="{E4863BC5-28E1-4474-9F34-C30424D2786D}"/>
+						<Switch Name="CatLady" ID="{C1DBADD6-D23D-4DC7-8072-FDB08BCB9C10}"/>
+						<Switch Name="FinalBoss" ID="{8BB33B4C-AFFC-49B7-8BCF-5E4AB8E28AD0}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

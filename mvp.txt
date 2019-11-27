@@ -1,0 +1,38 @@
+
+classes:
+- Player
+- Animal
+	- TrashDog
+	- Grayhound
+		- Boss
+		- Minion
+	- Cat
+		- Boss
+		- Minion
+	- Bulldog
+
+
+Phase 1:
+- Player movement
+- Background
+- Scene switcher
+
+Phase 2:
+- Animal Parent Class
+- Basic Animal AI
+- Global State Dictionary
+	- For items / stages cleared
+- Item usage
+	- how to fire
+- Item pickup
+
+Phase 3:
+- Intro / Ending
+	- Per stage and for whole game
+- Winning / Losing Condition
+
+Phase 4:
+- Tuning parameters
+- Multi Animal?
+
+
